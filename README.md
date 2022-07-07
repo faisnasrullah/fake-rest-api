@@ -1,9 +1,9 @@
-# fake-rest-api
+# Fake Rest API
 Fake Online REST server for teams
 
 ## Try it
 
-[https://my-json-server.typicode.com/typicode/demo](https://my-json-server.typicode.com/faisnasrullah/fakeapi)
+[https://my-json-server.typicode.com/faisnasrullah/fakeapi](https://my-json-server.typicode.com/faisnasrullah/fakeapi)
 
 ## Use your own data
 
